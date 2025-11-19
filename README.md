@@ -65,7 +65,7 @@ To satisfy the requirement for a **Loss Curve** and **Hyperparameter Tuning**, `
 
 ## 5. Checklist
 * [x] **Source Code:** Uploaded to GitHub/Colab.
-* [x] **Dataset Info:** Documented split, size, and cleaning steps [cite: 19-20].
-* [x] **Feature Details:** 29 Features, Standard Scaling implemented[cite: 22].
-* [x] **Hyperparameters:** Learning rates, optimizers, and $k$ values listed[cite: 25].
-* [x] **Results:** Loss Curve, Accuracy, Confusion Matrix, and ROC Curve generated for relevant models[cite: 27].
+* [x] **Dataset Info:** Documented split, size, and cleaning steps.
+* [x] **Feature Details:** 29 Features, Standard Scaling implemented.
+* [x] **Hyperparameters:** Learning rates, optimizers, and $k$ values listed.
+* [x] **Results:** Loss Curve, Accuracy, Confusion Matrix, and ROC Curve generated for relevant models.
